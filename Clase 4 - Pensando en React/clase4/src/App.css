@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.contenedor-card {
+/*  padding: 5px 10px;*/
+  border: 1px dashed white;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.titulo-card, .footer-card {
+  padding: 5px 10px;
+  background-color: black;
+}
+
+.titulo-card {
+  border-radius: 10px 10px 0px 0px;
+  border-bottom: 1px dashed white;
+}
+
+.footer-card {
+  border-radius: 0px 0px 10px 10px;
+  border-top: 1px dashed white;
+}
+
+.hijo-card {
+  padding: 5px 10px;
+}
