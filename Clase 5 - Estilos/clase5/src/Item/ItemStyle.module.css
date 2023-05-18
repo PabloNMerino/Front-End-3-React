@@ -1,0 +1,10 @@
+.listado {
+    list-style: none;
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 16px;
+}
+
+:global(.compact-theme) .listado {
+    padding: 8px;
+}
