@@ -1,0 +1,8 @@
+.item {
+    font-size: 0.7rem;
+    border: 1px solid beige;
+    padding: 0 10px;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+}
