@@ -1,0 +1,9 @@
+.button {
+    margin: 0px 3px;
+}
+
+.divCalculadora {
+    border: 1px solid white;
+    padding: 0px 30px 30px 30px;
+    border-radius: 20px;
+}
