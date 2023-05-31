@@ -1,0 +1,28 @@
+.divForm {
+    width: 600px;
+    padding-bottom: 25px;
+    padding-top: 5px;
+    background-color: rgb(98, 93, 93);
+    border-radius: 15px;
+}
+
+.label {
+    margin-right: 30px;
+    font-weight: 700;
+    font-size: 1.3rem;
+}
+
+.input {
+    height: 25px;
+    width: 200px;
+    padding-left: 10px;
+}
+
+.boton {
+    margin-top: 15px;
+    background-color: rgb(250, 48, 48);
+}
+
+.error {
+    color: red;
+}

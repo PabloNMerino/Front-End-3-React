@@ -1,0 +1,30 @@
+
+.boxPlato {
+    display: flex;
+    align-items: center;
+    width: 290px;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    background-color: rgb(98, 93, 93);
+    border-radius: 10px;
+}
+
+.imagenPlato {
+    width: 50px;
+    height: 50px;
+    background-image: url(../img/food-and-restaurant.png);
+    background-size: contain;
+}
+
+.nombrePlato {
+    font-size: 20px;
+}
+
+.eliminar {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(254, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
